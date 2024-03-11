@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sukhresswarun</h1>
+<h1 align="center">Hi <img width="35px" src="images/wave.gif"></img>, I'm Sukhresswarun</h1>
 <h3 align="center">A software developer who can code anything, mastering every aspect of the binary world to build whatever you need.</h3>
 
 <br/>
