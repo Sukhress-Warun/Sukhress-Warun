@@ -22,9 +22,29 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sukhresswarun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sukhresswarun/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,react,pug,bootstrap,html,css,python,java,javascript,c,git,github,opencv,vscode,stackoverflow,threejs,&theme=dark)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=pug&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="myskill"/>
+</p>
 
 <h3 align="center">Statistics</h3>
 <div align="center">
