@@ -22,7 +22,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sukhresswarun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sukhresswarun/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="myskill"/>
