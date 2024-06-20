@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="myskill"/>
     <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="myskill"/>
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="myskill"/>
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="myskill">
     <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="myskill"/>
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="myskill"/>
     <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="myskill"/>
